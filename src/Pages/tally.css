@@ -1,0 +1,20 @@
+.counter-div{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5%;
+  justify-content: center;
+}
+
+.counter{
+width: 300px;
+margin: 20px;
+}
+
+.addbut{
+  display: flex;
+  justify-content: center;
+}
+
+.incdecbtn{
+  width: 40px;
+}
